@@ -7,8 +7,8 @@ Hi I am JC, a fresh grad from Ateneo de Manila University, currently looking for
 - 8 Week SQL Challenge
 
 ### Tools:
-- **Languages:** Python, SQL, Java, C, C++, HTML, CSS, MongoDB
-- **Data Analytics:** Tableau, Tableau Prep, BigQuery, Data Studio
+- **Languages:** Python, SQL, Java, C, C++, HTML, CSS
+- **Data Analytics:** Tableau, Tableau Prep, BigQuery, Looker Studio
 - **Experience in:** Unity Game Engine, Pandas, NumPy
 - **Other Skills:** Google Suite, Canva, Photoshop, Aseprite
 

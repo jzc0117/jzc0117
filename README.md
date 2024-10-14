@@ -5,6 +5,7 @@ Hi I am JC, a fresh grad from Ateneo de Manila University, currently looking for
 ### Currently learning/working on:
 - Power BI
 - 8 Week SQL Challenge
+- Google Data Analytics Course
 
 ### Tools:
 - **Languages:** Python, SQL, Java, C, C++, HTML, CSS
